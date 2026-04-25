@@ -1,0 +1,14 @@
+#color-box {
+    width: 200px;
+    height: 200px;
+    margin: 20px auto;
+    border: 2px solid #333;
+}
+#options {
+    text-align: center;
+}
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
